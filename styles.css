@@ -1,0 +1,10 @@
+.row {
+    display: block;
+    float: left;
+    width: 1000px;
+    overflow: hidden;
+}
+.spell-tile {
+    width: 480px;
+    display: inline-block;
+}
