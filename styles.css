@@ -21,3 +21,23 @@
     padding-right:5px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.select {
+    height: 50px;
+    width: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    vertical-align: middle;
+    margin: 15px;
+}
+
+.select * {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    display: inline-block;
+    line-height: normal;
+}
+
+.chosen {
+    width: 1000; 
+}
